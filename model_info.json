@@ -1,0 +1,17 @@
+{
+  "model_type": "LogisticRegression (with StandardScaler in Pipeline)",
+  "problem_type": "classification",
+  "features": [
+    "sepal_length",
+    "sepal_width",
+    "petal_length",
+    "petal_width"
+  ],
+  "feature_order_note": "Inputs must be in the order above.",
+  "target_names": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "test_accuracy": 0.9333333333333333
+}

@@ -14,7 +14,7 @@ It also includes a confidence score when available.
 
 ## Why this model?
 
-We use a scikit-learn Pipeline with `StandardScaler` + `LogisticRegression`. It trains in seconds, performs well on the Iris dataset, and keeps the code easy to read.
+ This use a scikit-learn Pipeline with `StandardScaler` + `LogisticRegression`. It trains in seconds, performs well on the Iris dataset, and keeps the code easy to read.
 
 ## Quick start
 
